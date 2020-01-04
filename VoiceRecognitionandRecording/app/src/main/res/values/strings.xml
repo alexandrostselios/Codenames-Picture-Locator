@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Voice Recognition and Recording</string>
+    <string name="title_activity_maps">Google Map by Alexandros</string>
+    <string name="title_activity_speech2_text">Speech2Text</string>
+</resources>
