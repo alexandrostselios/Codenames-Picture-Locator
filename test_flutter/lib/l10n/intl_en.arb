@@ -1,0 +1,22 @@
+{
+    "@@locale": "en",
+    "New": "New",
+    "Save": "Save",
+    "Help": "Help",
+    "About": "About",
+    "Language": "Language",
+    "SubmitScore": "Submit Score",
+    "selectLanguage": "Select Language",
+    "english": "English",
+    "greek": "Greek",
+    "totalScore": "Total Score",
+    "submit": "Submit",
+    "team1": "Team 1",
+    "team2": "Team 2",
+    "team1Score": "Team 1 Score",
+    "team2Score": "Team 2 Score",
+    "player1": "Player 1",
+    "player2": "Player 2",
+    "player3": "Player 3",
+    "player4": "Player 4"
+}

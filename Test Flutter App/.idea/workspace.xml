@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="40671af1-d7f0-4613-8e35-b7780e290e7b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../CodenamesPictureLocator/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodenamesPictureLocator/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodenamesPictureLocator/.idea/deploymentTargetSelector.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodenamesPictureLocator/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodenamesPictureLocator/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodenamesPictureLocator/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodenamesPictureLocator/.idea/other.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodenamesPictureLocator/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pinak1/app/src/main/ic_launcher-playstore.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pinak1/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pinak1/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pinak1/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pinak1/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pinak1/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pinak1/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pinak1/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pinak1/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pinak1/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pinak1/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ScrambleWordCounter/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ScrambleWordCounter/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ScrambleWordCounter/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ScrambleWordCounter/.idea/deploymentTargetSelector.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ScrambleWordCounter/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ScrambleWordCounter/.idea/migrations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ScrambleWordCounter/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ScrambleWordCounter/.idea/other.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ScrambleWordCounter/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tichu-Counter/.idea/caches/gradle_models.ser" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tichu-Counter/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tichu-Counter/.idea/deploymentTargetSelector.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tichu-Counter/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tichu-Counter/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tichu-Counter/.idea/migrations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tichu-Counter/.idea/other.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/Android Apps.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capture.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodenamesPictureLocator/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../CodenamesPictureLocator/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodenamesPictureLocator/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../CodenamesPictureLocator/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodenamesPictureLocator/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../CodenamesPictureLocator/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodenamesPictureLocator/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../CodenamesPictureLocator/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodenamesPictureLocator/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/../CodenamesPictureLocator/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tichu-Counter" beforeDir="false" afterPath="$PROJECT_DIR$/../Tichu-Counter" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tichu-Counter/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/../Tichu-Counter/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tichu-Counter/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tichu-Counter/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tichu-Counter/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tichu-Counter/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tichu-Counter/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tichu-Counter/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tichu-Counter/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tichu-Counter/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tichu-Counter/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tichu-Counter/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../Tichu-Counter/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tichu-Counter/app/release/app-release.apk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tichu-Counter/app/release/output.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tichu-Counter/app/release/release/app.aab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tichu-Counter/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tichu-Counter/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tichu-Counter/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../Tichu-Counter/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tichu-Counter/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../Tichu-Counter/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tichu-Counter/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../Tichu-Counter/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../private_key.pepk" beforeDir="false" afterPath="$PROJECT_DIR$/../private_key.pepk" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2kv469l59qrIE5P5WAR8vT2xfyo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "kotlin-language-version-configured": "true",
+    "show.migrate.to.gradle.popup": "false"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="40671af1-d7f0-4613-8e35-b7780e290e7b" name="Changes" comment="" />
+      <created>1724150540796</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1724150540796</updated>
+    </task>
+    <servers />
+  </component>
+</project>
